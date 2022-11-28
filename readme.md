@@ -1,1 +1,1 @@
-https://juliasobocinska.github.io/goit-markup-hw-01/
+https://github.com/juliasobocinska/goit-markup-hw-01.git
